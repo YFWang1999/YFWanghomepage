@@ -26,7 +26,7 @@ experience:
     company: Vsislab, Shandong University 
     company_url: 'http://www.vsislab.com/'
     company_logo: org-gc
-    location: California
+    location: Jinan, Shandong, China
     date_start: '2021-03-21'
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
