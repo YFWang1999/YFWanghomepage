@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Jinan, Shandong, China
     date_start: '2021-03-21'
-    date_end: ''
+    date_end: 'Now'
     description： Research assistant in Vsislab working on computer vision
 
   - title: Bachelor in Mathematics and applied mathematics
