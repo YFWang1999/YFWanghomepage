@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Internship in Vsislab
+  - title: RA in Vsislab
     company: School of Control science and engineering, Shandong University
     company_url: ''
     company_logo: org-gc
     location: Jinan, Shandong, China
     date_start: '2021-03-21'
     date_end: ''
-    description： 
+    description： Research assistant in Vsislab working on computer vision
 
   - title: Bachelor in Mathematics and applied mathematics
     company: Shandon university
@@ -38,7 +38,7 @@ experience:
     location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Major in Data Science and Big Data technology
     
 design:
   columns: '2'
