@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Jinan
-    date_start: '2021-03-21'
+    date_start: '2022-07-21'
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
 
