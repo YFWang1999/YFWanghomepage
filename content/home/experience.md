@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Vsislab, Shandong University 
-    company_url: ''
+    company_url: 'http://www.vsislab.com/'
     company_logo: org-gc
     location: Jinan, Shandong, China
     date_start: '2021-03-21'
