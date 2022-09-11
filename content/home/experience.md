@@ -26,7 +26,7 @@ experience:
     company: Vsislab, Shandong University 
     company_url: ''
     company_logo: org-gc
-    location: Jinan, Shandong, China
+    location: Jinan
     date_start: '2021-03-21'
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
@@ -35,7 +35,7 @@ experience:
     company: Shandong University 
     company_url: ''
     company_logo: org-x
-    location: Jinan, Shandong, China
+    location: Jinan
     date_start: '2018-09-01'
     date_end: '2022-06-31'
     description: Major in Data Science and Big Data technology in Shandong University
