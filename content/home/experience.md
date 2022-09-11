@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachelor in Mathematics and applied mathematics
+    company: School of Mathematics inShandon university
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-19'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Major in Data Science and Big Data technology
 
 design:
   columns: '2'
