@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Jinan, Shandong, China
-    date_start: '2021-03-21'
+    date_start: '2022-07-01'
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
 
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
+    date_start: '2018-09-01'
     date_end: '2022-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
