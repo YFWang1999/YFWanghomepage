@@ -31,14 +31,14 @@ experience:
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachelor of Mathematics and applied mathematics 
+    company: Shandong University 
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Jinan, Shandong, China
+    date_start: '2018-09-01'
+    date_end: '2022-06-31'
+    description: Major in Data Science and Big Data technology in Shandong University
 
 design:
   columns: '2'
