@@ -34,7 +34,7 @@ experience:
   - title: Bachelor in Mathematics and applied mathematics
     company: Shandon university
     company_url: ''
-    company_logo: sdu
+    company_logo: org-x
     location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-31'
