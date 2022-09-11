@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2018-09-01'
+    date_end: '2020-06-19'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
