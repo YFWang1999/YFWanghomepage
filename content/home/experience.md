@@ -24,17 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Vsislab, Shandong University 
-    company_url: ''
+    company_url: 'http://www.vsislab.com/'
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2021-03-21'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research assistant in Vsislab working on computer vision
 
   - title: Professor of Semiconductor Physics
     company: University X
