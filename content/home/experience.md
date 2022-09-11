@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Vsislab in Shandong University 
+    company: Vsislab, Shandong University 
     company_url: ''
     company_logo: org-gc
-    location: Jinan
-    date_start: '2022-07-21'
+    location: Jinan, Shandong, China
+    date_start: '2021-03-21'
     date_end: ''
     description: Research assistant in Vsislab working on computer vision
 
@@ -35,7 +35,7 @@ experience:
     company: Shandong University 
     company_url: ''
     company_logo: org-x
-    location: Jinan
+    location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-31'
     description: Major in Data Science and Big Data technology in Shandong University
