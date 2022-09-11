@@ -32,7 +32,7 @@ experience:
     description: Research assistant in Vsislab working on computer vision
 
   - title: Bachelor in Mathematics and applied mathematics
-    company: School of Mathematics inShandon university
+    company: School of Mathematics in Shandong university
     company_url: ''
     company_logo: org-x
     location: Jinan, Shandong, China
