@@ -29,7 +29,7 @@ experience:
     location: Jinan, Shandong, China
     date_start: '2021-03-21'
     date_end: ''
-
+    description： 
 
   - title: Bachelor in Mathematics and applied mathematics
     company: Shandon university
