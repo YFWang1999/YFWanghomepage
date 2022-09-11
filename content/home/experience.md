@@ -38,7 +38,7 @@ experience:
     location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-31'
-    description: Major in Data Science and Big Data technology in Shandong University
+    description: Major in Data Science and Big Data technology
 
 design:
   columns: '2'
