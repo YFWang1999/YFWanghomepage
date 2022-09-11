@@ -39,7 +39,6 @@ experience:
     date_start: '2018-09-01'
     date_end: '2022-06-31'
 
-
 design:
   columns: '2'
 ---
