@@ -38,7 +38,8 @@ experience:
     location: Jinan, Shandong, China
     date_start: '2018-09-01'
     date_end: '2022-06-31'
-
+    description: Taught electronic engineering and researched semiconductor physics.
+    
 design:
   columns: '2'
 ---
