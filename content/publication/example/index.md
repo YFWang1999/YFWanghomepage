@@ -62,7 +62,6 @@ url_pdf: 'https://arxiv.org/abs/2207.09280'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+
 
 
